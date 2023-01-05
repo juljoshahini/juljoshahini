@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**juljoshahini/juljoshahini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=juljoshahini&label=Views&color=blue&style=plastic&style=for-the-badge" alt="juljoshahini" />
 
 Here are some ideas to get you started:
 
